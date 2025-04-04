@@ -39,11 +39,11 @@ def check_grammar(model_name, human_message):
 
 # Default dataset
 default_dataset = [
-    "I has a apple.",
-    "She go to the store yesterday.",
-    "He don't like the movie.",
-    "They was playing soccer.",
-    "The cat sleep on the mat."
+"Yesterday I go to the park and see many peoples. There was a lot of childs playing. I meet with my friend and we talks about our exams. Then we goes to a restaurant and order two sandwichs. It was fun day.",
+"The weather is too cold today. I am thinking to wear a warm jacket. I did a big mistake in my test, and my teacher become very angry. She told me to do the correction. I am having a headache now, so I will eat a medicine.",
+"Its a beautifull day outside but I cant go becuz I have alot of work. My friend’s are going to the beach, and theyre having fun. I should of finished my work earlier. But, I didnt.",
+"Today morning I woke up late, so I rushed for my office. In the way, I met my colleague. He suggested me to not worry and take it easy. But I was still hurry. When I reached office, my boss told that why I am late? I didn’t gave proper answer.",
+"I was so tired, so I took a sleep early."
 ]
 
 choice = input("Enter '1' to use the default dataset or '2' to enter your own sentence: ")
