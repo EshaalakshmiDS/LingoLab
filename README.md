@@ -69,6 +69,7 @@ The default dataset includes the following sentences with different english issu
 - "I was so tired, so I took a sleep early."
 
 ## Contributing
+The ultimate objective is to develop a powerful, AI-driven full-stack application!
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
 ## License
