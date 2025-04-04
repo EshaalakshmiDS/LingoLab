@@ -1,4 +1,4 @@
-# English Language Learning Chatbot
+# LingoLab - Chat your way to better English
 
 ## Overview
 The English Language Learning Chatbot is an interactive application designed to assist users in improving their English grammar skills. By leveraging advanced language processing capabilities, the chatbot provides real-time feedback on grammatical errors, offers explanations for corrections, and generates personalized learning plans based on user input. 
